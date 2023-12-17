@@ -1,3 +1,7 @@
+RKP-ADDOHM
+Projekt Radio Kluba Pazin
+(sufinancirano od strane Grada Pazina)
+
 # 432mhz-daljinsko-upravljanje-rkpa-ddohm
 
 Daljinski upravljač 4 tipke - u praksi je 432 MHz odašiljač koda
